@@ -180,8 +180,6 @@ Python app for interactive visualization of AM, FM, and PM modulation techniques
 <div align="center">
 
 ![F1](https://img.shields.io/badge/Formula%201-E8002D?style=for-the-badge&logo=f1&logoColor=white)
-![Red Bull Racing](https://img.shields.io/badge/Red%20Bull%20Racing-1E1B4B?style=for-the-badge&logo=redbull&logoColor=e8002d)
-![Max Verstappen](https://img.shields.io/badge/%231%20Max%20Verstappen-3d0000?style=for-the-badge)
 ![Football](https://img.shields.io/badge/Football-0a0a1a?style=for-the-badge)
 
 <br/>
