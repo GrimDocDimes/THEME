@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:1a0830,100:3d0000&height=200&section=header&text=GrimDocDimes&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20FPGA%20%7C%20RTL%20%7C%20SoC%20Design&descAlignY=60&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:1a0830,100:3d0000&height=200&section=header&text=GrimDocDimes&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ECE%20Engineer%20%7C%20FPGA%20%7C%20RTL%20Design%20%7C%20SoC%20%7C%20VLSI&descAlignY=60&descSize=17&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=E8002D&center=true&vCenter=true&width=750&lines=Electronics+%26+Communication+Engineer;FPGA+%7C+RTL+Design+%7C+SoC+Architecture+%7C+VLSI;From+Verilog+to+GDSII+%E2%80%94+Gate+by+Gate;Hardware+that+doesn't+just+simulate+%E2%80%94+it+ships" alt="Typing SVG" />
