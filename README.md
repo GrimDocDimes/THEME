@@ -15,36 +15,6 @@
 
 ---
 
-## `$ cat whoami.v`
-
-```verilog
-module GrimDocDimes #(
-  parameter DEGREE = "B.E. Electronics & Communication Engineering"
-) (
-  input  wire  curiosity,
-  input  wire  coffee,
-  output reg   silicon_dreams
-);
-
-  // ─── Core Competencies ─────────────────────────────
-  localparam FPGA_DESIGN   = 1;   // RTL to bitstream
-  localparam SOC_ARCH      = 1;   // RISC-V + custom IPs
-  localparam HW_CRYPTO     = 1;   // AES-128, FIPS-197
-  localparam ML_ON_SILICON = 1;   // CNN inference, not Python
-  localparam VLSI_FLOW     = 1;   // OpenROAD, RTL→GDSII
-
-  always @(posedge curiosity or posedge coffee)
-    silicon_dreams <= FPGA_DESIGN | SOC_ARCH |
-                      HW_CRYPTO   | ML_ON_SILICON |
-                      VLSI_FLOW;
-
-  // ─── Off the clock ─────────────────────────────────
-  // 🏎️  F1  |  Red Bull Racing  |  #MaxVerstappen
-  // ⚽  Football
-
-endmodule
-```
-
 ---
 
 <div align="center">
