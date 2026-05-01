@@ -179,7 +179,7 @@ Python app for interactive visualization of AM, FM, and PM modulation techniques
 
 <div align="center">
 
-<video src="pinterestredbull.mp4" autoplay loop muted playsinline width="100%"></video>
+<img src="redbull_small.gif" width="100%" alt="Red Bull Racing" />
 
 <br/>
 
