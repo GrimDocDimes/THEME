@@ -193,8 +193,7 @@ Python app for interactive visualization of AM, FM, and PM modulation techniques
 
 ## 📊 Stats
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=GrimDocDimes&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=E8002D&icon_color=E8002D&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrimDocDimes&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=E8002D&text_color=c9d1d9&langs_count=6" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GrimDocDimes&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
